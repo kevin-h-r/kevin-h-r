@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kevin-h-r/static/css/main.b6307e98.css",
+    "main.js": "/kevin-h-r/static/js/main.adff7729.js",
+    "static/js/453.117b0875.chunk.js": "/kevin-h-r/static/js/453.117b0875.chunk.js",
+    "index.html": "/kevin-h-r/index.html",
+    "main.b6307e98.css.map": "/kevin-h-r/static/css/main.b6307e98.css.map",
+    "main.adff7729.js.map": "/kevin-h-r/static/js/main.adff7729.js.map",
+    "453.117b0875.chunk.js.map": "/kevin-h-r/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6307e98.css",
+    "static/js/main.adff7729.js"
+  ]
+}
