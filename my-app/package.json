@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kevin-h-r.github.io/kevin-h-r",
   "dependencies": {
     "@fontsource/roboto": "^5.2.9",
     "@testing-library/dom": "^10.4.1",
